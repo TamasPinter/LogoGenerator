@@ -1,0 +1,30 @@
+{
+  "name": "logogenerator",
+  "version": "1.0.0",
+  "description": "using this repo to create a terminal based logo creator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TamasPinter/LogoGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TamasPinter/LogoGenerator/issues"
+  },
+  "homepage": "https://github.com/TamasPinter/LogoGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
